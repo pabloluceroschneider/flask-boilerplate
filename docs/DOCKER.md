@@ -11,3 +11,9 @@ docker run -d -p 5001:5000 flask-boilerplate
 # Start
 docker start {id}
 ```
+
+<!-- Docker Compose -->
+
+docker-compose up -d
+
+docker-compose ps
