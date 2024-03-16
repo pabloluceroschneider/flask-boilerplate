@@ -2,7 +2,7 @@
 
 ```bash
 # Build
-docker build --tag flask-boilerplate .
+docker build -t flask-boilerplate .
 
 # Run
 docker run -d -p 5001:5000 flask-boilerplate
