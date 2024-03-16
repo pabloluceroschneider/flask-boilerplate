@@ -15,3 +15,5 @@ docker start {id}
 <!-- Docker Compose -->
 
 docker-compose up -d
+
+docker-compose ps
