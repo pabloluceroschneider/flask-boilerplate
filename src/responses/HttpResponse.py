@@ -9,5 +9,5 @@ class HttpResponse:
             "code": self.code,
             "data": self.data,
             "message": self.message,
-        }, 200
+        }, self.code
 
